@@ -11,3 +11,4 @@
 昏倒  
 #bard  
 #chatGPT  
+![](ezgif-4-073ef6da98.gif)  
