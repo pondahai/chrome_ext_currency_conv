@@ -1,0 +1,11 @@
+{
+  "name": "我的外掛程式",
+  "description": "這是我的外掛程式的描述",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["contextMenus", "tabs", "webNavigation", "scripting", "activeTab"]
+}
